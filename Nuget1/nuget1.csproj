@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2</TargetFramework>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+  
+      <PropertyGroup>
+        <LangVersion>9.0</LangVersion>
+        <Version>1.0.2</Version>
+    </PropertyGroup>
+
+</Project>
